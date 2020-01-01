@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="accelero-fuzzy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET">
+				<Option output="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/include"/>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/src"/>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/Wire/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/cores/arduino"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/variants/standard"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/HID/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/SPI/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include"/>
+					<Add directory="/home/isfanazha/.platformio/packages/tool-unity"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET/fast">
+				<Option output="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/include"/>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/src"/>
+					<Add directory="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/Wire/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/cores/arduino"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/variants/standard"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/HID/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/SPI/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed"/>
+					<Add directory="/home/isfanazha/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include"/>
+					<Add directory="/home/isfanazha/.platformio/packages/tool-unity"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_REBUILD_PROJECT_INDEX">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_REBUILD_PROJECT_INDEX"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOADFS">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOADFS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_PROGRAM">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_PROGRAM"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD_DEBUG">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD_DEBUG"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD_VERBOSE">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD_VERBOSE"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPDATE_ALL">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPDATE_ALL"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_BUILD">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_BUILD"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_MONITOR">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_MONITOR"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_UPLOAD">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_UPLOAD"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_CLEAN">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_CLEAN"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_DEVICE_LIST">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_DEVICE_LIST"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PLATFORMIO_TEST">
+				<Option working_dir="/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 PLATFORMIO_TEST"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-uno/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/.gitattributes">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/.gitignore">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/.library.json">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/LICENSE.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/README.md">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example1_BasicReading/Example1_BasicReading.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example2_RawDataReading/Example2_RawDataReading.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example3_Orientation/Example3_Orientation.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example4_ChangeScale/Example4_ChangeScale.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example5_ChangeDataRate/Example5_ChangeDataRate.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example6_ReadTaps/Example6_ReadTaps.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example7_OriginalDeprecated/Example7_OriginalDeprecated.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example8_AdvancedI2C/Example8_AdvancedI2C.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/examples/Example9_TwoSensors/Example9_TwoSensors.ino">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/library.json">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/library.properties">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/src/SparkFun_MMA8452Q.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/src/SparkFun_MMA8452Q.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/arduino_ID2171/.hg_archival.txt">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/arduino_ID2171/.library.json">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/arduino_ID2171/arduino.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/arduino_ID2171/arduino.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/.pio/libdeps/uno/arduino_ID2171/library.json">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/src/main.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/isfanazha/Project/Arduino/accelero-fuzzy/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

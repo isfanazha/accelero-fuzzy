@@ -1,0 +1,1 @@
+/home/isfanazha/.platformio/packages/toolchain-atmelavr/bin/avr-g++    -rdynamic CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/uno/SparkFun_MMA8452Q_ID164/src/SparkFun_MMA8452Q.cpp.o CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/uno/arduino_ID2171/arduino.cpp.o CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.o  -o Z_DUMMY_TARGET 
