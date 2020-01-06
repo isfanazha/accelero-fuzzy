@@ -1,0 +1,15 @@
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD_DEBUG.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_MONITOR.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_DEVICE_LIST.dir
+/home/isfanazha/Project/Arduino/accelero-fuzzy/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir

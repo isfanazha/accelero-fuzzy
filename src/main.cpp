@@ -28,13 +28,12 @@ int8_t xBMAData;
 int8_t yBMAData;
 int8_t zBMAData;
 
-
 // input from multiplexer
 int S0 = 5;
 int S1 = 6;
 int S2 = 7;
 
-byte MMAData;
+byte BMAData;
 
 void setup() {
     Serial.begin(9600);
@@ -127,12 +126,12 @@ void initSensor() {
         Serial.print("Initializing sensor ");
         Serial.println(i);
 
-        if (x == SENSOR_3 || x == SENSOR_4 || x == SENSOR_5) {
-            MMAData = readRegister(0x00);
-            if (MMAData != 0xDD) {
+        if (x == SENSOR_2 || x == SENSOR_4 || x == SENSOR_5 || x == SENSOR_6) {
+            BMAData = readRegister(0x00);
+            if (BMAData != 0xDD) {
                 Serial.print("error while initiating sensor ");
                 Serial.println(i);
-                while (1);
+                // while (1);
             }
             Serial.print("Success init sensor ");
             Serial.println(i);
@@ -140,7 +139,7 @@ void initSensor() {
             if (!mmaAccelero.begin()) {
                 Serial.print("error while initiating sensor ");
                 Serial.println(i);
-                while (1);
+                // while (1);
             }
 
             Serial.print("Success init sensor ");
@@ -194,7 +193,7 @@ byte readRegister(uint8_t addr) {
 
     if (!Wire.available()) {
         Serial.println("something error, please check connection in BMA sensor!");
-        while (1);
+        // while (1);
     }
 
     return Wire.read();
