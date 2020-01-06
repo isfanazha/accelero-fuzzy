@@ -1,5 +1,5 @@
 .pio
 .idea/
-,vscode
+.vscode/
 
 CMakeListsPrivate.txt
